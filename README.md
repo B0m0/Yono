@@ -10,7 +10,7 @@
 ## 📊 Skills & Tools
 - **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards), SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Data Visualization:** Power BI, Excel, Matplotlib, Seaborn  
-- **Database Management:** MySQL  
+- **Database Management:** MySQL , Python
 - **Soft Skills:** Analytical thinking, problem-solving, attention to detail  
 
 ---
